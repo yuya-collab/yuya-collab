@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+<h1>氏名</h1>
+  <a>寺山 裕也</a>
+<h2>所 属</h2>
+  <a>鹿児島キャリアデザイン専門学校<br>ITスペシャリスト科１年</a>
+<h3>持っているスキル</h3>
+  <a>情報活用試験_2級</a>
+<h4>趣味・ハマっていること</h4>
+  <a>ウォーキング、筋トレ、麻雀</a>
 <!--
 **yuya-collab/yuya-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
